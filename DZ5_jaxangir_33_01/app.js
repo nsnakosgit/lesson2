@@ -8,9 +8,9 @@ input.addEventListener('input', () => {
  if (inputValue.length > 100) {
     input.style.borderColor = 'red';
  } else if( inputValue < 100) {
-    input.style.borderColor = 'bluu';
+    input.style.borderColor = 'blue';
  } else{
-    return "bluu"
+    return ""
  }
  
 });
