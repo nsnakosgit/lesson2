@@ -7,7 +7,7 @@ var clientsurname ="ilievich";
 
 // string - текстовый, строковый
 //клиентская очередь
-var clientqueue = "132";
+var clientqueue = 132;
 console.log("Hello, " + clientfullname);
 
 // number - числовой_
@@ -59,7 +59,7 @@ var maks ={
 //bank
 var bank ={
     headoffice: false,
-    numberofemployees: "15",
+    numberofemployees: 15,
     workinghours:{
         from: "9-00",
         to: "20-00",
